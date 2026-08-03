@@ -1,5 +1,5 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-08-02T03:44:42.811Z",
+  "updated_at": "2026-08-03T03:47:03.153Z",
   "stats": {
     "total_hours": 1.6,
     "daily_avg": 0.23,
@@ -11,11 +11,6 @@ window.WAKATIME_WEEKLY = {
     }
   },
   "days": [
-    {
-      "date": "2026-07-27",
-      "hours": 0,
-      "text": "0 secs"
-    },
     {
       "date": "2026-07-28",
       "hours": 0,
@@ -43,6 +38,11 @@ window.WAKATIME_WEEKLY = {
     },
     {
       "date": "2026-08-02",
+      "hours": 0,
+      "text": "0 secs"
+    },
+    {
+      "date": "2026-08-03",
       "hours": 0,
       "text": "0 secs"
     }
